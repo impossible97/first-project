@@ -1,1 +1,4 @@
-public class amd {}
+public class amd {
+main newMethod(){
+}
+}
